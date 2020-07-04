@@ -9,6 +9,7 @@ what i studied about data structure, today.
 #### To Do
 - Array에 대해 공부.
 - Queue에 대해 공부.
+- Stack에 대해 공부.
 #### Difficult Things
 
 <br>
